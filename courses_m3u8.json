@@ -1,31 +1,374 @@
 {
-    "3F7": {
-        "3F7 Lab Intro": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1644e1ed-a0aa-4365-bbc9-ac5c00d9cf88/7f03c182-b1e2-42a9-8758-ac5c00d9cf93-ccec8f82-2754-4591-9569-adbf005e760a.hls/master.m3u8?InvocationID=7467ed81-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=cb45dd6e-d7fb-4682-954a-ac5c00da3c2c&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 10 1/2: Arithmetic Coding Live Animation (Annex to Handout 4)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/081fdd64-c912-4130-ad8a-ac620133dc32/630c9da2-9e0c-4827-9498-ac620133dc3d-73a45f0e-8eed-4134-b483-ac620135f62f.hls/master.m3u8?InvocationID=7e67ed81-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=449bdbd6-a132-43fc-93fc-ac6201340047&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 10: Arithmetic Coding -- Part 2 (Week 3)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/35a1df23-d1f5-46ec-8378-ac5b00a7290d/f1796f60-22d2-48f2-8cc0-ac5b00a7291a-4f08fde6-c94e-46d1-8f37-ac5b00a917cd.hls/master.m3u8?InvocationID=8767ed81-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=0c6b5f0b-7c14-4bd2-a5bc-ac5b00a808b7&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 11: Relative Entropy (Week 4)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/fa17e39e-d04d-416d-b827-ac600110a7ec/059bb0f9-2456-466c-b416-ac600110a7f6-318e0bbf-c02e-4845-a6ac-ac600113696a.hls/master.m3u8?InvocationID=db69ea87-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=d6bba35a-5ed9-4d9b-89e7-ac600110c5e1&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 12: Mutual Information (Week 4)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/cb2ab8c0-a456-45e2-bd16-ac6001282536/3266bc1f-8f5f-4178-997a-ac6001282540-1efb70a2-d4be-4615-a8d8-ac60012b0ecb.hls/master.m3u8?InvocationID=e069ea87-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=f1113720-044a-4e8c-a473-ac600128361e&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 13: Discrete Memoryless Channels (Week 4)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2cb2d4f8-8ba6-4b92-8a2a-ac610125a236/cd3293d2-66dc-46b7-9c53-ac610125a243-46cc512e-6a7f-4502-bc80-ac6101271d02.hls/master.m3u8?InvocationID=e969ea87-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=6c69ac94-195a-4318-8159-ac610125bbf5&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 14: Channel Capacity (Week 5)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/bc9c2752-6ffd-4ac7-a63c-ac67010aea03/ae0b5995-8ede-4c5a-ae17-ac67010aea10-238b970d-9cab-485a-82ec-ac67010d804a.hls/master.m3u8?InvocationID=ef69ea87-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=67db1a72-3540-4708-8043-ac67010af6b3&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 15: A Heuristic Justification of Channel Capacity (Week 5)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/39908c19-bf34-4bd2-a451-ac68010ade21/def4c76d-6297-4d5e-9459-ac68010ade2e-56c89388-020b-4e17-8963-ac68010ccaf1.hls/master.m3u8?InvocationID=f469ea87-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=1d4fa008-02ed-41d7-870d-ac68010ae9cc&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 16: Joint typicality (Week 5)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9a43c728-eaa3-4bf4-968f-ac6900e62e4a/216599e6-3398-4130-9cf5-ac6900e62e54-391c1e46-5445-4f0d-af37-ac6900e78859.hls/master.m3u8?InvocationID=fc69ea87-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=13cb7c4b-768d-428a-bd29-ac6900e653d8&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 17: The Channel Coding Theorem, Achievability (Week 5)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1bb3439d-7933-438e-a2af-ac690152956a/dc227610-e196-43af-b817-ac6901529574-58fac7e5-7848-4124-8802-ac690154e1de.hls/master.m3u8?InvocationID=056aea87-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=eb33dc9e-0d4e-4de8-bef1-ac690152dd71&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 18: Fano's inequality and the channel coding converse (Week 6)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/03573660-8a13-4294-9344-ac6e00bd32fd/4d0aab04-f91a-43b6-a394-ac6e00bd3306-714e6901-fff0-4e10-8a22-ac6e00c022c8.hls/master.m3u8?InvocationID=0b6aea87-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=d1d6faff-94e4-43c1-83e1-ac6e00bd495a&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 19: Differential Entropy, Capacity of the AWGN channel (Week 6)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1a8429ee-2673-47df-ab60-ac6f011f9d59/c3e69cdd-8f4c-481b-8bcd-ac6f011f9d62-c1838807-3163-47d6-84b1-ac6f0121f9a4.hls/master.m3u8?InvocationID=0f6aea87-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=d39a1831-d121-424c-bb11-ac6f011fab61&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 1: Introduction, Probability review (Week 1)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/a3a6ba8a-9445-4a41-bfbf-adb6011105f6/8cc5dbb5-78b2-4cf2-b96c-adb6011105ff-b90f7d78-2d0e-404a-9ba9-adb6011363ab.hls/master.m3u8?InvocationID=9df0258e-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=ad27c97c-6326-46e8-b489-adb601110713&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 20: Binary block codes, Generator matrices (Week 7)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2b9483ab-d9c9-4734-87fc-ac75010fad85/433e8fd0-59f2-4666-a374-ac75010fad90-3ca16745-8888-4417-a5bd-ac7501126697.hls/master.m3u8?InvocationID=a6f0258e-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=7561ec9a-7bce-498f-a29e-ac75010fbffc&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 21: Subspace propety and the parity check matrix (Week 7)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/87795164-3f4a-44ad-a657-ac7501505e6e/f5bba0dc-d1a9-4cdd-866b-ac7501505e78-4519e67f-3d24-4532-bd89-ac750152f87d.hls/master.m3u8?InvocationID=abf0258e-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=e9aef979-b33c-4812-89e2-ac7501506f14&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 22: Decoding linear codes on the BEC (Week 7)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/bfb8a17b-4bc3-4998-af84-ac7700c56cf9/1b7cff00-f24f-4881-9a53-ac7700c56d03-18282f49-cce0-40e5-8cc9-ac7700c7445e.hls/master.m3u8?InvocationID=b3f0258e-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=b475c6dd-b767-4aaf-a280-ac7700c5a5a3&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 23: Message passing decoding on the BEC (Week 8)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/870f140e-c0b2-4558-896a-ac7c0119d0d4/bb43342d-0806-4cbb-9183-ac7c0119d0dd-750be377-fa5c-41e1-95db-ac7c011b972d.hls/master.m3u8?InvocationID=b9f0258e-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=c9993b0d-f80f-4f9b-872c-ac7c0119da32&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 24: Degree distributions and density evolution (Week 8)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/8195bfa0-b708-46c9-932c-ac7c0119ea06/9850c2c7-078a-46b8-8b78-ac7c0119ea0e-3b1d9dc4-2391-49fc-b19f-ac7c011cd1fd.hls/master.m3u8?InvocationID=bff0258e-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=0276cd7e-a605-4d48-b10a-ac7c011a4e3c&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 25: LDPCs for general binary input channels (Week 8)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1330e796-5340-4f3a-a23c-ac7d0139b292/bf20f8c3-5e60-48eb-a48b-ac7d0139b29c-f708e30c-0c6f-4141-b165-ac7d013e1b89.hls/master.m3u8?InvocationID=c3f0258e-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=63404879-0166-4a79-b61a-ac7d0139d6d6&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 2: Entropy (Week 1)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/3870c5e7-ee56-45c2-afdb-adb800e4b59d/d51a7a6c-69a4-4b2b-a4ae-adb800e4b5a7-88756435-cba7-4978-b063-adb800e81296.hls/master.m3u8?InvocationID=cdf0258e-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=15a27bc2-beb0-4226-abf3-adb800e4b6aa&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 3: Tail probability bounds, Law of Large Numbers (Week 1)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/b3010aec-3f1b-46eb-ac78-ac4d0139b965/f3b0e109-a28d-4418-89cb-ac4d0139b96f-64660671-0533-4547-a488-ac4d013bd348.hls/master.m3u8?InvocationID=d6f0258e-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=a2473214-898d-4a77-bf5e-ac4d0139d81d&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 4: The typical set (Week 2)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/998f9055-b2ad-4b5a-bd7c-ac5000fa82d2/64ca3f78-199a-4936-83ad-ac5000fa830c-bd6fcbbe-7626-4ece-acc6-ac5000fd6ac9.hls/master.m3u8?InvocationID=65811e94-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=c7693565-f2a3-400e-93d6-ac5000fa97f2&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 5: Compression via the typical set (Week 2)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/4ac54d32-8164-4079-abd8-ac5400b6f3c4/72b7bccc-48b3-4c20-a71e-ac5400b6f3cf-c3c07675-77bb-41e8-906c-ac5400b946b6.hls/master.m3u8?InvocationID=70811e94-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=71973ee8-b531-4b06-a36d-ac5400b705e6&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 6: Prefix-free codes, Kraft inequality (Week 2)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/fe4be960-0ac4-48b5-9394-ac540107b334/97d66344-2560-47f3-85a5-ac540107b341-0ab01691-1922-48d9-a5cf-ac540109c0d9.hls/master.m3u8?InvocationID=7f811e94-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=70d79b83-8b5a-41ba-b560-ac540107da04&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 7: Lossless source coding theorem (Week 3)": null,
-        "3F7 Video 8: Shannon-Fano and Huffman coding (Week 3)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1cfac945-1def-48a8-9e16-ac5901022486/e380aa9b-9113-45dd-8337-ac5901022492-6b2d76b8-88a9-46c7-9a5d-ac590104ab24.hls/master.m3u8?InvocationID=8f811e94-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=973b2ba0-d6dc-4813-97f8-ac590102422d&ServerName=cambridgelectures.cloud.panopto.eu",
-        "3F7 Video 9: Interval Coding, Arithmetic Coding (Week 3)": "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/d99edf1b-782f-4b76-a134-ac5a013a4307/f24c8037-0faa-4957-b41d-ac5a013a4315-0180722e-8f8d-4f74-a632-ac5a013d13d6.hls/master.m3u8?InvocationID=98811e94-8ca4-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=03f7936d-4e55-4483-8d92-ac5a013a72ce&ServerName=cambridgelectures.cloud.panopto.eu"
-    }
+  "3F7": {
+    "3F7 Lab Intro": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1644e1ed-a0aa-4365-bbc9-ac5c00d9cf88/7f03c182-b1e2-42a9-8758-ac5c00d9cf93-ccec8f82-2754-4591-9569-adbf005e760a.hls/master.m3u8?InvocationID=80a1baa8-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=cb45dd6e-d7fb-4682-954a-ac5c00da3c2c&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 10 1/2: Arithmetic Coding Live Animation (Annex to Handout 4)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/081fdd64-c912-4130-ad8a-ac620133dc32/630c9da2-9e0c-4827-9498-ac620133dc3d-73a45f0e-8eed-4134-b483-ac620135f62f.hls/master.m3u8?InvocationID=89a1baa8-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=449bdbd6-a132-43fc-93fc-ac6201340047&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 10: Arithmetic Coding -- Part 2 (Week 3)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/35a1df23-d1f5-46ec-8378-ac5b00a7290d/f1796f60-22d2-48f2-8cc0-ac5b00a7291a-4f08fde6-c94e-46d1-8f37-ac5b00a917cd.hls/master.m3u8?InvocationID=92a1baa8-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=0c6b5f0b-7c14-4bd2-a5bc-ac5b00a808b7&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 11: Relative Entropy (Week 4)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/fa17e39e-d04d-416d-b827-ac600110a7ec/059bb0f9-2456-466c-b416-ac600110a7f6-318e0bbf-c02e-4845-a6ac-ac600113696a.hls/master.m3u8?InvocationID=a1a1baa8-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=d6bba35a-5ed9-4d9b-89e7-ac600110c5e1&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 12: Mutual Information (Week 4)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/cb2ab8c0-a456-45e2-bd16-ac6001282536/3266bc1f-8f5f-4178-997a-ac6001282540-1efb70a2-d4be-4615-a8d8-ac60012b0ecb.hls/master.m3u8?InvocationID=aca1baa8-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=f1113720-044a-4e8c-a473-ac600128361e&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 13: Discrete Memoryless Channels (Week 4)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2cb2d4f8-8ba6-4b92-8a2a-ac610125a236/cd3293d2-66dc-46b7-9c53-ac610125a243-46cc512e-6a7f-4502-bc80-ac6101271d02.hls/master.m3u8?InvocationID=b9a1baa8-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=6c69ac94-195a-4318-8159-ac610125bbf5&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 14: Channel Capacity (Week 5)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/bc9c2752-6ffd-4ac7-a63c-ac67010aea03/ae0b5995-8ede-4c5a-ae17-ac67010aea10-238b970d-9cab-485a-82ec-ac67010d804a.hls/master.m3u8?InvocationID=b97abeae-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=67db1a72-3540-4708-8043-ac67010af6b3&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 15: A Heuristic Justification of Channel Capacity (Week 5)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/39908c19-bf34-4bd2-a451-ac68010ade21/def4c76d-6297-4d5e-9459-ac68010ade2e-56c89388-020b-4e17-8963-ac68010ccaf1.hls/master.m3u8?InvocationID=c27abeae-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=1d4fa008-02ed-41d7-870d-ac68010ae9cc&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 16: Joint typicality (Week 5)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9a43c728-eaa3-4bf4-968f-ac6900e62e4a/216599e6-3398-4130-9cf5-ac6900e62e54-391c1e46-5445-4f0d-af37-ac6900e78859.hls/master.m3u8?InvocationID=cf7abeae-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=13cb7c4b-768d-428a-bd29-ac6900e653d8&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 17: The Channel Coding Theorem, Achievability (Week 5)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1bb3439d-7933-438e-a2af-ac690152956a/dc227610-e196-43af-b817-ac6901529574-58fac7e5-7848-4124-8802-ac690154e1de.hls/master.m3u8?InvocationID=d97abeae-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=eb33dc9e-0d4e-4de8-bef1-ac690152dd71&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 18: Fano's inequality and the channel coding converse (Week 6)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/03573660-8a13-4294-9344-ac6e00bd32fd/4d0aab04-f91a-43b6-a394-ac6e00bd3306-714e6901-fff0-4e10-8a22-ac6e00c022c8.hls/master.m3u8?InvocationID=ea7abeae-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=d1d6faff-94e4-43c1-83e1-ac6e00bd495a&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 19: Differential Entropy, Capacity of the AWGN channel (Week 6)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1a8429ee-2673-47df-ab60-ac6f011f9d59/c3e69cdd-8f4c-481b-8bcd-ac6f011f9d62-c1838807-3163-47d6-84b1-ac6f0121f9a4.hls/master.m3u8?InvocationID=f37abeae-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=d39a1831-d121-424c-bb11-ac6f011fab61&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 1: Introduction, Probability review (Week 1)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/a3a6ba8a-9445-4a41-bfbf-adb6011105f6/8cc5dbb5-78b2-4cf2-b96c-adb6011105ff-b90f7d78-2d0e-404a-9ba9-adb6011363ab.hls/master.m3u8?InvocationID=f97abeae-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=ad27c97c-6326-46e8-b489-adb601110713&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 20: Binary block codes, Generator matrices (Week 7)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2b9483ab-d9c9-4734-87fc-ac75010fad85/433e8fd0-59f2-4666-a374-ac75010fad90-3ca16745-8888-4417-a5bd-ac7501126697.hls/master.m3u8?InvocationID=097bbeae-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=7561ec9a-7bce-498f-a29e-ac75010fbffc&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 21: Subspace propety and the parity check matrix (Week 7)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/87795164-3f4a-44ad-a657-ac7501505e6e/f5bba0dc-d1a9-4cdd-866b-ac7501505e78-4519e67f-3d24-4532-bd89-ac750152f87d.hls/master.m3u8?InvocationID=61beb6b4-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=e9aef979-b33c-4812-89e2-ac7501506f14&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 22: Decoding linear codes on the BEC (Week 7)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/bfb8a17b-4bc3-4998-af84-ac7700c56cf9/1b7cff00-f24f-4881-9a53-ac7700c56d03-18282f49-cce0-40e5-8cc9-ac7700c7445e.hls/master.m3u8?InvocationID=6bbeb6b4-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=b475c6dd-b767-4aaf-a280-ac7700c5a5a3&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 23: Message passing decoding on the BEC (Week 8)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/870f140e-c0b2-4558-896a-ac7c0119d0d4/bb43342d-0806-4cbb-9183-ac7c0119d0dd-750be377-fa5c-41e1-95db-ac7c011b972d.hls/master.m3u8?InvocationID=76beb6b4-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=c9993b0d-f80f-4f9b-872c-ac7c0119da32&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 24: Degree distributions and density evolution (Week 8)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/8195bfa0-b708-46c9-932c-ac7c0119ea06/9850c2c7-078a-46b8-8b78-ac7c0119ea0e-3b1d9dc4-2391-49fc-b19f-ac7c011cd1fd.hls/master.m3u8?InvocationID=88beb6b4-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=0276cd7e-a605-4d48-b10a-ac7c011a4e3c&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 25: LDPCs for general binary input channels (Week 8)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1330e796-5340-4f3a-a23c-ac7d0139b292/bf20f8c3-5e60-48eb-a48b-ac7d0139b29c-f708e30c-0c6f-4141-b165-ac7d013e1b89.hls/master.m3u8?InvocationID=91beb6b4-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=63404879-0166-4a79-b61a-ac7d0139d6d6&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 2: Entropy (Week 1)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/3870c5e7-ee56-45c2-afdb-adb800e4b59d/d51a7a6c-69a4-4b2b-a4ae-adb800e4b5a7-88756435-cba7-4978-b063-adb800e81296.hls/master.m3u8?InvocationID=9fbeb6b4-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=15a27bc2-beb0-4226-abf3-adb800e4b6aa&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 3: Tail probability bounds, Law of Large Numbers (Week 1)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/b3010aec-3f1b-46eb-ac78-ac4d0139b965/f3b0e109-a28d-4418-89cb-ac4d0139b96f-64660671-0533-4547-a488-ac4d013bd348.hls/master.m3u8?InvocationID=a8beb6b4-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=a2473214-898d-4a77-bf5e-ac4d0139d81d&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 4: The typical set (Week 2)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/998f9055-b2ad-4b5a-bd7c-ac5000fa82d2/64ca3f78-199a-4936-83ad-ac5000fa830c-bd6fcbbe-7626-4ece-acc6-ac5000fd6ac9.hls/master.m3u8?InvocationID=b0beb6b4-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=c7693565-f2a3-400e-93d6-ac5000fa97f2&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 5: Compression via the typical set (Week 2)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/4ac54d32-8164-4079-abd8-ac5400b6f3c4/72b7bccc-48b3-4c20-a71e-ac5400b6f3cf-c3c07675-77bb-41e8-906c-ac5400b946b6.hls/master.m3u8?InvocationID=cb3fcdba-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=71973ee8-b531-4b06-a36d-ac5400b705e6&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 6: Prefix-free codes, Kraft inequality (Week 2)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/fe4be960-0ac4-48b5-9394-ac540107b334/97d66344-2560-47f3-85a5-ac540107b341-0ab01691-1922-48d9-a5cf-ac540109c0d9.hls/master.m3u8?InvocationID=d33fcdba-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=70d79b83-8b5a-41ba-b560-ac540107da04&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 7: Lossless source coding theorem (Week 3)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/c3e2f760-c31f-4eb5-be06-ac5900b56044/d1c4a6b3-9994-4adf-a9fc-ac5900b56051-32f36508-d648-49b9-97d3-ac5900b67830.hls/master.m3u8?InvocationID=dd3fcdba-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=3e16c49a-5069-46d2-a23f-ac5900b57713&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 8: Shannon-Fano and Huffman coding (Week 3)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1cfac945-1def-48a8-9e16-ac5901022486/e380aa9b-9113-45dd-8337-ac5901022492-6b2d76b8-88a9-46c7-9a5d-ac590104ab24.hls/master.m3u8?InvocationID=eb3fcdba-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=973b2ba0-d6dc-4813-97f8-ac590102422d&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F7 Video 9: Interval Coding, Arithmetic Coding (Week 3)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/d99edf1b-782f-4b76-a134-ac5a013a4307/f24c8037-0faa-4957-b41d-ac5a013a4315-0180722e-8f8d-4f74-a632-ac5a013d13d6.hls/master.m3u8?InvocationID=f63fcdba-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=03f7936d-4e55-4483-8d92-ac5a013a72ce&ServerName=cambridgelectures.cloud.panopto.eu"
+    ]
+  },
+  "3G4": {
+    "3G4:Medical Imaging & 3-D Computer Graphics GEE/TREECE on 2/11/2022 (Fri)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/228df034-0437-47cd-8a47-ae2200fea84a/84c11008-7c7c-45e3-8ed0-ae2200fea851-60568d70-6510-4503-824f-ae3900a5145f.hls/master.m3u8?InvocationID=0640cdba-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=4f597bb9-204b-40ca-b66c-ae3900945256&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/228df034-0437-47cd-8a47-ae2200fea84a/2a6050f8-aace-4efa-8727-ae390094529a.object.hls/master.m3u8?InvocationID=0640cdba-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=2a6050f8-aace-4efa-8727-ae390094529a&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4:Medical Imaging & 3-D Computer Graphics GEE/TREECE on 2/18/2022 (Fri)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1afba533-f2c2-40d1-b214-ae2200fea866/c4bdbc60-46d5-49a1-bda6-ae2200fea86d-7e0a3f60-094d-4f6b-9aec-ae4000a51582.hls/master.m3u8?InvocationID=1440cdba-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=8e90196e-5c21-4be4-a5e2-ae40009451db&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/1afba533-f2c2-40d1-b214-ae2200fea866/539767e1-2825-421d-b1f8-ae400094521f.object.hls/master.m3u8?InvocationID=1440cdba-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=539767e1-2825-421d-b1f8-ae400094521f&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4:Medical Imaging & 3-D Computer Graphics GEE/TREECE on 2/25/2022 (Fri)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2c8f1eba-e23b-4a01-957c-ae2200fea87f/f2027286-89f9-4a24-8ad5-ae2200fea888-0c5c4802-25f4-4942-998c-ae4700a511d7.hls/master.m3u8?InvocationID=727ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=4391dc7c-936e-4215-b79d-ae47009452e7&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2c8f1eba-e23b-4a01-957c-ae2200fea87f/de43cdee-7d1e-49f9-acd3-ae4700945329.object.hls/master.m3u8?InvocationID=727ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=de43cdee-7d1e-49f9-acd3-ae4700945329&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4:Medical Imaging & 3-D Computer Graphics GEE/TREECE on 3/4/2022 (Fri)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/80ff7586-ccbf-4c0c-8a5d-ae2200fea89b/d2dda1b6-8597-46b6-89c6-ae2200fea8a3-b81e6855-7b92-4a20-a623-ae4e00a50991.hls/master.m3u8?InvocationID=7e7ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=fd677090-aa8a-44d8-9325-ae4e009452c9&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/80ff7586-ccbf-4c0c-8a5d-ae2200fea89b/4e0503d8-f413-48e9-9f46-ae4e0094530d.object.hls/master.m3u8?InvocationID=7e7ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=4e0503d8-f413-48e9-9f46-ae4e0094530d&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4:Medical Imaging & 3-D Computer Graphics GEE/TREECE, on 2/14/2022 (Mon)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/c73e63ba-80b8-4ba6-ba69-ae2400b0ab7a/99d69bcd-e91c-4947-8609-ae2400b0ab89-c071b149-090a-4aba-923e-ae3c00c694aa.hls/master.m3u8?InvocationID=867ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=3155bc28-159e-4988-b05c-ae3c00b54b24&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/c73e63ba-80b8-4ba6-ba69-ae2400b0ab7a/f6e56e40-8d98-4b26-8157-ae3c00b54b6b.object.hls/master.m3u8?InvocationID=867ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=f6e56e40-8d98-4b26-8157-ae3c00b54b6b&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4:Medical Imaging & 3-D Computer Graphics GEE/TREECE, on 2/21/2022 (Mon)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/20a88ec0-5c09-4f0a-858f-ae2400b0ab9e/373c0420-7fce-429c-b62e-ae2400b0abad-a06102f7-e2ae-43ea-9600-ae4300c61016.hls/master.m3u8?InvocationID=917ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=6f96a874-a81a-4c84-a946-ae4300b54830&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/20a88ec0-5c09-4f0a-858f-ae2400b0ab9e/ebe1f3f3-95d0-4bcb-9d4c-ae4300b54876.object.hls/master.m3u8?InvocationID=917ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=ebe1f3f3-95d0-4bcb-9d4c-ae4300b54876&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4:Medical Imaging & 3-D Computer Graphics GEE/TREECE, on 2/28/2022 (Mon)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/7c66cca2-b1d5-4e33-90c9-ae2400b0abc4/abf39d05-bd17-463f-82b8-ae2400b0abd7-61d9663b-0618-42a5-a38a-ae4a00c5f3d9.hls/master.m3u8?InvocationID=a07ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=4a721c04-988a-4fb7-90a0-ae4a00b54871&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/7c66cca2-b1d5-4e33-90c9-ae2400b0abc4/d460344f-c3eb-495f-8012-ae4a00b548b7.object.hls/master.m3u8?InvocationID=a07ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=d460344f-c3eb-495f-8012-ae4a00b548b7&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4:Medical Imaging & 3-D Computer Graphics GEE/TREECE, on 2/7/2022 (Mon)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/c4859517-c836-4f3a-a058-ae2400b0ab1d/dbab5268-29c3-45b5-8a81-ae2400b0ab38-54f244c4-8c78-4582-87e1-ae3500c5f6e4.hls/master.m3u8?InvocationID=ab7ccbc0-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=91639f54-65c8-4a89-80b3-ae3500b547b6&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4:Medical Imaging & 3-D Computer Graphics GEE/TREECE, on 3/7/2022 (Mon)": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/50dbb4c3-da40-4308-bd90-ae2400b0abec/4d028d16-c034-47c1-b229-ae2400b0abf9-534cf3bc-c94a-4fdc-80f3-ae5100c5f4e0.hls/master.m3u8?InvocationID=4950d3c6-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=28c1a6cc-1fd8-4339-b8bc-ae5100b54765&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/50dbb4c3-da40-4308-bd90-ae2400b0abec/3d05d043-7050-4bcb-86fa-ae5100b547b1.object.hls/master.m3u8?InvocationID=4950d3c6-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=3d05d043-7050-4bcb-86fa-ae5100b547b1&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4_Lecture7_Surface_Representations_Part3": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ed52cf22-321a-44d1-90d9-ac8c00ad4bf5/c378e0d2-c8c2-4a37-8af2-ac8c00ad4bfd-6161c37c-b019-45e3-aed1-ac8c00b34e3e.hls/master.m3u8?InvocationID=5d50d3c6-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=2f18c548-10ee-4fed-bb4e-ac8c00ad4656&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4_Lecture7_Surface_Representations_Part4": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/b0b10d41-05a0-42f3-af25-ac8c00b557b4/790a994f-6349-43a1-8b2e-ac8c00b557bb-564212a0-003a-4d4e-8fb1-ac8c00be07bf.hls/master.m3u8?InvocationID=6750d3c6-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=258c98af-bbd4-40c1-a142-ac8c00b55153&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4_Lecture9_Data_Interpolation_Part1": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/fee65e80-6cd3-4cb7-82fa-ac91008bd570/074e2353-000f-4985-b7ac-ac91008bd579-5323c5f6-5600-4c30-b444-ac910092ea53.hls/master.m3u8?InvocationID=7150d3c6-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=f39f8a19-b907-4ce5-b447-ac91008bd063&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4_Lecture9_Data_Interpolation_Part2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9488819d-de82-4b28-9066-ac9100969163/bdc8d43d-2070-443a-8f9d-ac910096916b-1396f029-f042-4dbe-a2c4-ac91009bf226.hls/master.m3u8?InvocationID=7550d3c6-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=5c01e8c9-2b96-4aec-a8bb-ac9100968dda&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4_part_3_lecture_4": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2682acc9-0cf7-4511-9ae3-ace900ab73fc/b5022d8a-3bb4-419e-8404-ace900ab7404-31a01959-3345-451e-a1fb-ace900b399eb.hls/master.m3u8?InvocationID=7f50d3c6-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=6120d564-48d5-4fa1-bf72-ace900ab7457&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3G4_part_3_lecture_5": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/fe324d5e-741b-4b33-b03f-acec00c2d5c9/ee4ef4af-ec1c-4316-aa47-acec00c2d5d1-59620f67-a466-4e5c-8bb6-acec00c7a073.hls/master.m3u8?InvocationID=8b50d3c6-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=ed419379-3d19-449b-8ece-acec00c2d636&ServerName=cambridgelectures.cloud.panopto.eu"
+    ]
+  },
+  "3F1": {
+    "3F1_L0": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/0bdd7fcb-ae7a-4e8b-8183-adbb00a7dc0f/a17090b4-920a-4690-96e4-adbb00a7dc14-722173ed-6b3b-4a36-a2a4-adba00bd0cea.hls/master.m3u8?InvocationID=337f05cd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=61281750-d6da-4c56-8e4c-adbb00a7dc15&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F1_L1A": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/70c88310-8d1d-479e-a9c0-adbf005ba12e/77561dfd-8c7c-42c7-933a-adbf005ba136-2650f001-a393-49e2-b96a-adbf005eb70c.hls/master.m3u8?InvocationID=3a7f05cd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=352a436a-61e7-4189-8474-adbf005ba1fd&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F1_L1B": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/8fc72568-efab-42b5-a402-adbf0087f9cb/5a232bb0-bfb9-40b7-b480-adbf0087f9dd-fecaf537-3ee8-4efa-ba7a-adbf008b5729.hls/master.m3u8?InvocationID=3e7f05cd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=e770c666-4a2c-4836-b9e3-adbf0087f9c9&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F1_L2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/727a6dcb-c800-403e-bd5c-adc100c1e1e2/1012ef4e-d244-4fad-8cb6-adc100c1e1ed-16e9a180-4828-4cb3-861c-adc100c362a3.hls/master.m3u8?InvocationID=497f05cd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=51b075c0-61ed-413f-b626-adc100c1e2b7&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F1_L3": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9933aa90-7fb8-4868-956c-adc6009409b5/7afbf745-b3d7-4ba6-95be-adc6009409bf-de259a86-85fc-4b3c-a033-adc600993dec.hls/master.m3u8?InvocationID=527f05cd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=5f1dde85-7f40-49ea-8ab0-adc600940abf&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F1_L4": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/e06efcc5-65df-4726-9f6e-adc800c1cb7a/305cccea-1ea6-45cd-8463-adc800c1cb83-8277dca7-c60f-454e-a74d-adc800c5b49b.hls/master.m3u8?InvocationID=607f05cd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=460b2351-2efe-488a-944e-adc800c1cc4f&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F1_L5": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/c8cad445-060e-4da0-9fef-adcd00ad9722/4686aa12-2fbd-47ce-9d5b-adcd00ad972b-be362ffa-a936-451f-94fb-adcd00affb00.hls/master.m3u8?InvocationID=6a7f05cd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=24e6d889-1eb5-4531-af1e-adcd00ad97bd&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F1_L6": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/923d7abd-4795-477b-b940-adcf01163d20/36e6b27a-dfc7-4629-8b5a-adcf01163d29-f8aafa39-99a4-4c50-a9a5-adcf011b5ed1.hls/master.m3u8?InvocationID=787f05cd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=6eacf84f-e7ad-46af-b840-adcf01163db0&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F1_L7": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/059c8b97-8e80-4644-86ef-add400baf46b/bb1e47df-c069-4c42-938f-add400baf476-4178b152-faca-4495-a002-add401119235.hls/master.m3u8?InvocationID=78930fd3-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=42b3ec22-fe5c-40b9-bf74-add400baf51a&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "DFT last bit": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/acccee22-c188-43ca-ae92-ade2012c0290/8e4aa164-1100-4138-ad65-ade2012c0299-638fc44d-3183-454a-9f67-ade2012f84f8.hls/master.m3u8?InvocationID=86930fd3-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=2566973f-f627-448c-9032-ade2012c032d&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "Week 6 handout DFT": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/6871418a-36b1-4ec4-b964-ade1018572dc/dfa54b65-293f-4d03-940c-ade1018572e3-2344ccb4-517e-44ca-b38d-ade1018aa949.hls/master.m3u8?InvocationID=90930fd3-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=3e93125b-7d34-43a7-81b4-ade10185737f&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "fft": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/4d43ce8d-26e6-4a40-b58e-ade1018572d0/b1044299-2a86-42ae-baf7-ade1018572d9-53e58bc9-2e46-45d6-b24b-ade2012d27ba.hls/master.m3u8?InvocationID=98930fd3-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=ea2a338a-10c4-4175-a1cb-ade10185737c&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "lecture 14": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/7222da5f-ee66-4d02-982c-ade901048cb5/5fe46adf-0d08-496a-b9e3-ade901048cbe-71011739-7314-4851-86e3-ade901085f12.hls/master.m3u8?InvocationID=a7930fd3-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=abd89a78-c0c2-4103-af52-ade901048d4e&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "lecture 15": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/251de340-31f9-47cf-ad57-ade9011c77d3/df02aaf5-02d6-414a-92f2-ade9011c77e0-a9353388-330d-455d-845d-ade90122feb1.hls/master.m3u8?InvocationID=af930fd3-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=7986791a-8bce-47a9-a1c5-ade9011c7888&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "lecture 16": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/e07fe25b-b457-49ee-a276-adee014cdbe0/e114e7d0-5312-4f9b-b208-adee014cdbe7-51f25ce0-19c0-4603-8242-adee0155d2c5.hls/master.m3u8?InvocationID=b6930fd3-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=6be03de9-8218-42ff-9f2c-adee014cdc63&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "video lecture 3": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/6871418a-36b1-4ec4-b964-ade1018572dc/dfa54b65-293f-4d03-940c-ade1018572e3-2344ccb4-517e-44ca-b38d-ade1018aa949.hls/master.m3u8?InvocationID=1c650cd9-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=3e93125b-7d34-43a7-81b4-ade10185737f&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "video3122581512": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ea9113e3-220a-4abf-b7af-add60003b2be/915ae4db-1af5-4504-9183-add60003b2c6-78667ca1-1454-47a7-9b32-add60009a541.hls/master.m3u8?InvocationID=26650cd9-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=635b52bb-5db3-4774-ace8-add60003b368&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "video_lecture2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/121d3608-0226-4d23-a8d0-addb011b783c/f223f053-124f-4a4a-8900-addb011b7845-6d83fadd-6ca0-4853-9f0d-addb0124c4e0.hls/master.m3u8?InvocationID=35650cd9-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=ab031409-8de4-4d0b-8f58-addb011b78d5&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "video_lecture_1a": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/a1a52a77-04b2-41ee-a2c6-add600edc994/c00b9996-6737-4ed8-bf9d-add600edc9a1-8a54eaa1-0163-41c6-b638-add600f8d1b6.hls/master.m3u8?InvocationID=43650cd9-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=73c9f375-952f-4238-bd0c-add600edca2e&ServerName=cambridgelectures.cloud.panopto.eu"
+    ]
+  },
+  "3F3": {
+    "3F3 Godsill Week 5 Part 0a": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2fd1f9a4-faf6-4fdf-98df-ac6b01288efe/d3b042bb-a85e-4ab9-9c9c-ac6b01288f07-b22d1661-8f98-4aa4-80c4-ac6b012d428d.hls/master.m3u8?InvocationID=56650cd9-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=427f414c-7c92-427e-8546-ac6b012920ed&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3 Week 5 Part 0b": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/a7c8ba0e-abe2-4187-b26a-ac6b011be026/9a5129ec-f5b5-4442-9ba6-ac6b011be02f-9793bd77-e7f7-4c0a-a855-ac6b012c67f6.hls/master.m3u8?InvocationID=62650cd9-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=2f97dc65-beb5-4613-9de4-ac6b011c3562&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec1_part1of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/32827345-9f28-4420-a462-adbe010d97ad/6d424268-468f-4c5b-a6c6-adbe010d97b7-58a61bc1-464e-4557-a3db-adbe010edc5d.hls/master.m3u8?InvocationID=781b06df-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=66fa0097-a965-42b0-910e-adbe010d9886&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec1_part2of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/952c5fd5-4898-4515-99ad-adbe010e6a41/cb749b1f-4cc9-43b8-982a-adbe010e6a49-1d946423-973d-45f4-80ee-adbe010fec50.hls/master.m3u8?InvocationID=851b06df-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=1f63cbe1-a6fb-4115-9af2-adbe010e6aec&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec2_part1of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/a12f9f25-06af-4624-9584-adbf00df516b/e6b4f700-180c-4399-b42b-adbf00df5177-9c6fde07-a14f-4a42-816a-adbf00e143ba.hls/master.m3u8?InvocationID=8c1b06df-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=89fbd255-87e3-4121-8721-adbf00df523e&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec2_part2of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2382e357-6c01-46a8-b850-adbf00dfc955/b934bfb0-fe91-470c-9a52-adbf00dfc960-0adc1c9c-2939-4405-b8e0-adbf00e15af5.hls/master.m3u8?InvocationID=9a1b06df-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=5ebd1084-2b4e-4f6d-9453-adbf00dfc9f1&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec3_part1of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/8e2e8935-586c-408a-821b-adc500ae089c/37c69f32-e96d-4c1c-9ceb-adc500ae08a5-63aa3652-e5d8-417d-8c36-adc500aef422.hls/master.m3u8?InvocationID=a11b06df-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=81773770-aee9-479c-a81f-adc500ae092f&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec3_part2of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2b9560ef-0a64-453b-b882-adc500ae089f/fb9c62e8-a0c9-4c93-a16f-adc500ae08b7-c958465b-69a6-4121-9552-adc500af5ecc.hls/master.m3u8?InvocationID=a71b06df-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=5d43b394-5cfd-4fb6-aec0-adc500ae0951&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec4_part1of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ae2728f3-26fd-452c-8ff8-adc600dbfc68/5d585af7-a79b-46be-baad-adc600dbfc73-5f253764-e8d0-44de-853d-adc600dcf6f6.hls/master.m3u8?InvocationID=b61b06df-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=18c28885-40d8-46ec-91f1-adc600dbfd05&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec4_part2of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/df68b3ff-3084-47dc-9311-adc600dbfc77/ed0e4f85-c8a3-4b87-9743-adc600dbfc7f-872d9edc-75c9-4891-9503-adc600dd066e.hls/master.m3u8?InvocationID=c81b06df-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=25885147-43bb-4b01-82ec-adc600dbfd2d&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec5_part1of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/6cf76445-c5fa-46b5-9e1b-adcc00a94924/00567e52-5376-4633-b135-adcc00a9492f-c700274a-f112-4552-8313-adcc00aa57da.hls/master.m3u8?InvocationID=43ee0fe5-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=3f5c5eba-c532-4fe1-8167-adcc00a94a38&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec5_part2of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/d8187a51-6dee-4c85-bd04-adcc00a94926/31c66033-bd61-4a1f-8066-adcc00a94930-2f0faaa2-fb97-4f3c-b45c-adcc00aa12b5.hls/master.m3u8?InvocationID=4eee0fe5-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=4f5bbe7e-af73-46ce-8f35-adcc00a949e8&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec6_part1of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/94783e7d-da89-4fd9-b183-adcd011b5a64/e4efeba2-6dca-49d2-9460-adcd011b5a6e-25ee9e1a-ac9d-43c9-9a48-adcd011d5744.hls/master.m3u8?InvocationID=5dee0fe5-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=102828db-d2ff-4e78-a7e5-adcd011b5b4b&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec6_part2of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/937e4a92-2ea9-45f5-bb4e-adcd011b5a61/67d84a5d-e6a2-4034-b907-adcd011b5a68-c7bacf33-21fe-4dca-8ec0-adcd011c9e0b.hls/master.m3u8?InvocationID=6bee0fe5-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=25276045-9592-4ccd-ad59-adcd011b5ae8&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec7_part1of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/655c9210-9981-4ea4-96d3-add300be2dbf/fdb2d2cb-c293-4393-ad3a-add300be2dc7-b26fc1a3-0656-4016-b955-add300bf68c5.hls/master.m3u8?InvocationID=72ee0fe5-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=1d6340bf-f818-49f5-94e3-add300be2e6b&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec7_part2of2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/884ff90c-b6a8-4785-b06b-add300be2db8/f69a3355-309a-40da-917f-add300be2dc3-47c8f0e1-be2b-45dc-b9ef-add300c02bd0.hls/master.m3u8?InvocationID=76ee0fe5-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=662f052c-3a90-49a2-8799-add300be2e7c&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec8_part1of3": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/f449847c-60e2-4e84-9964-adda00ccd3ae/f287618b-a0cc-4dcd-962b-adda00ccd3b8-47c02976-2442-4ceb-8a62-adda00cedbd2.hls/master.m3u8?InvocationID=7cee0fe5-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=d459893b-d99d-41a2-946e-adda00ccd4d6&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec8_part2of3.": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/5811f0cf-60cb-4230-9f9d-adda00ccd37f/ae17916f-882d-4134-b56b-adda00ccd388-4eeb1c00-05aa-4160-b26c-adda00ce5ecc.hls/master.m3u8?InvocationID=6cee0deb-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=5dcf4416-1e01-48d6-9233-adda00ccd438&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3F3_Lec8_part3of3.": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/74c1affb-4ec4-4150-8f56-adda00ccd37f/8db567cf-d35d-4b16-803f-adda00ccd388-c28ba7c1-b06f-4bae-88bc-adda00cd3d99.hls/master.m3u8?InvocationID=7aee0deb-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=509a5843-0bf8-4106-b848-adda00ccd436&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "Part 2 p71-82": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/4a9915a1-ed5a-4afa-b2d4-ade80094165d/33668b2a-1893-4a25-8d56-ade800941664-d6d54bc4-b3e9-4183-a01b-ac7b0155e8a0.hls/master.m3u8?InvocationID=81ee0deb-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=38dea3cf-f763-45cb-a4d2-ade800941666&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "Part 2 pp 1-34": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/55fdacfc-6680-45f5-88be-ade80094196d/2fbf373a-ae7c-412c-9e80-ade800941974-8eb921f9-d2bb-4ddb-85bb-ac7b01293d94.hls/master.m3u8?InvocationID=87ee0deb-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=5bf00368-69ca-4171-9f86-ade800941975&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "Part 2 pp 122 to end": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/69ed2c11-9774-490a-9461-adec0126b966/8427d8f6-dea1-4360-bcb0-adec0126b96d-37abf0b8-b22b-4ce2-bb9e-ac82012f733f.hls/master.m3u8?InvocationID=90ee0deb-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=2ed2407f-fd5c-48fe-ac86-adec0126b96e&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "Part 2 pp 35-47": [],
+    "Part 2 pp 48-59": [],
+    "Part 2 pp 60-70": [],
+    "Part 2 pp 81-97": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/b93b1e72-3837-48dd-a1e1-adec0126ba7e/8c4edae4-d1eb-4685-bd74-adec0126ba84-e7177205-acd1-476c-a78e-ac82011bba51.hls/master.m3u8?InvocationID=0ae945f1-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=b0b22e6e-4d4a-4a97-8ce4-adec0126ba85&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "Part 2 pp98-121": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/20dcddd1-3b0a-4621-98f0-adec0126b9e4/f8c2f1ff-92f8-4136-b2cd-adec0126b9eb-129fe9a4-b31c-4321-9370-ac820122681d.hls/master.m3u8?InvocationID=18e945f1-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=d6c41c35-2f67-4606-8f7e-adec0126b9eb&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "Week 6 lectures": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/25921065-c010-4143-a7a5-ac74011618f1/5ff166a1-d9d3-40cd-b220-ac74011618fa-da63e68e-f11b-4cc9-a528-ac74011c8210.hls/master.m3u8?InvocationID=29e945f1-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=1321c73d-28a2-4bde-b513-ac7401169a62&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "Week 7 lectures": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/55fdacfc-6680-45f5-88be-ade80094196d/2fbf373a-ae7c-412c-9e80-ade800941974-8eb921f9-d2bb-4ddb-85bb-ac7b01293d94.hls/master.m3u8?InvocationID=34e945f1-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=5bf00368-69ca-4171-9f86-ade800941975&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "Week 8 lectures": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/b93b1e72-3837-48dd-a1e1-adec0126ba7e/8c4edae4-d1eb-4685-bd74-adec0126ba84-e7177205-acd1-476c-a78e-ac82011bba51.hls/master.m3u8?InvocationID=3fe945f1-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=b0b22e6e-4d4a-4a97-8ce4-adec0126ba85&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "pp100-110": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/eac6ce27-303f-4d7a-b956-ac740116196e/fd6e9bfc-a76c-4b67-a865-ac7401161978-c7f50ed8-99cb-4aec-a008-ac74011c65c3.hls/master.m3u8?InvocationID=48e945f1-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=8257c14f-7907-4667-a83b-ac740116e07f&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "pp111-117": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/db1d3a46-6024-48e0-af99-ac7401161923/a3ae540b-b8e9-4840-8213-ac740116192d-70092d95-40c9-457e-82c3-ac74011857ac.hls/master.m3u8?InvocationID=eb233ef7-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=c2c27d5d-ddd0-4258-b570-ac74011657d8&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "pp56-72": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/25921065-c010-4143-a7a5-ac74011618f1/5ff166a1-d9d3-40cd-b220-ac74011618fa-da63e68e-f11b-4cc9-a528-ac74011c8210.hls/master.m3u8?InvocationID=f1233ef7-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=1321c73d-28a2-4bde-b513-ac7401169a62&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "pp73-80": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2f7c479f-a25f-4f78-96cf-ade101355d70/e72bbcb5-58ed-4c09-9f15-ade101355d77-45953a11-6c07-4b30-83f6-ac74011a0910.hls/master.m3u8?InvocationID=f8233ef7-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=6c99cb03-b1fc-4221-8137-ade101355d78&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "pp81-90": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/8d50663e-be26-4d55-973e-ac74011646aa/0a4042cc-a83c-4a75-abff-ac74011646b6-af869c7f-8162-4f71-9bf6-ac74011c5a65.hls/master.m3u8?InvocationID=03243ef7-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=0fc79592-4d3d-4178-bff5-ac74011706e3&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "pp90-93 Wiener demo": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/c4fb9e66-de86-4b0a-a6b6-ac7b01531dde/a80f80b4-f07a-4919-ac97-ac7b01531de7-4522888a-86ae-4778-8741-ac7b01539a9a.hls/master.m3u8?InvocationID=10243ef7-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=2de0b088-d852-43ec-868e-ac7b0153238a&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "pp91-100": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/a97670a1-53cd-4776-a5ca-ac7401165960/ad6e184f-c4e6-45b7-9362-ac7401165967-ec46f29a-43f8-4e15-b5f8-ac74011995c4.hls/master.m3u8?InvocationID=14243ef7-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=504da25d-9040-4f5b-a74c-ac7401172111&ServerName=cambridgelectures.cloud.panopto.eu"
+    ]
+  },
+  "3B1": {
+    "3B1: Lecture 1": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9643ba5e-4a25-4106-a72b-adba00fe6643/6ec33244-16d9-4f3f-9e20-adba00fe664b-4ab2ac37-8bf5-405b-b8f0-adbe00c62e59.hls/master.m3u8?InvocationID=2f243ef7-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=2cf4e7a6-7644-45ed-be58-adbe00b54859&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9643ba5e-4a25-4106-a72b-adba00fe6643/865232df-6903-43dc-9464-adbe00b54895.object.hls/master.m3u8?InvocationID=2f243ef7-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=865232df-6903-43dc-9464-adbe00b54895&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 10": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/d91624bc-f86c-4bcc-8c5d-adbf01141990/5b2e87a5-6f62-4a9d-98f6-adbf0114199a-1039e80f-4bb7-42ee-8dc8-addd0098f7cb.hls/master.m3u8?InvocationID=906238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=fd866328-7fb5-4a40-8c6a-addb00b547de&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/d91624bc-f86c-4bcc-8c5d-adbf01141990/f370c690-6013-49b1-b366-addb00b5480f.object.hls/master.m3u8?InvocationID=906238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=f370c690-6013-49b1-b366-addb00b5480f&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 11": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/fa38bb72-389a-4c1b-92f4-adbf0116d026/4ad93495-64bd-4e3f-b76e-adbf0116d02e-aeca577f-eb8f-48d9-949e-ade500992530.hls/master.m3u8?InvocationID=986238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=13573933-0a1d-4f1c-b3b1-ade100c5c277&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/fa38bb72-389a-4c1b-92f4-adbf0116d026/971c9a92-d388-4eb3-8e4d-ade100c5c2a8.object.hls/master.m3u8?InvocationID=986238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=971c9a92-d388-4eb3-8e4d-ade100c5c2a8&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 12": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/b874dbb9-7bb5-4b76-b8ce-adbf01180614/91156816-f8d4-413b-b8d0-adbf0118061c-15ddc150-fed5-46f1-9c6b-ade5009a0af0.hls/master.m3u8?InvocationID=a46238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=f63978c3-474f-4f45-bc59-ade200b54938&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/b874dbb9-7bb5-4b76-b8ce-adbf01180614/96f2669a-4c42-49ed-a09b-ade200b54967.object.hls/master.m3u8?InvocationID=a46238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=96f2669a-4c42-49ed-a09b-ade200b54967&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 13": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/7679a42f-767b-473f-94d6-adbf011aadf8/4a4274c6-8bf7-4650-9ff0-adbf011aae00-6778ec0e-799c-48ee-a50b-ade900a9fcb9.hls/master.m3u8?InvocationID=b06238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=7ed0042b-9592-43a3-954d-ade800c5c2d1&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/7679a42f-767b-473f-94d6-adbf011aadf8/6772a750-8275-4c29-aaa5-ade800c5c309.object.hls/master.m3u8?InvocationID=b06238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=6772a750-8275-4c29-aaa5-ade800c5c309&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 14": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/38645655-4f7e-4cfc-9886-adbf011bf0f9/67972c3d-1a77-4b8e-9b87-adbf011bf101-34980f36-587d-4099-8633-ade900cf11e0.hls/master.m3u8?InvocationID=bd6238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=8b13fc2b-49fb-4a93-8587-ade900b548ab&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/38645655-4f7e-4cfc-9886-adbf011bf0f9/c8da557e-4569-4991-b532-ade900b548e4.object.hls/master.m3u8?InvocationID=bd6238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=c8da557e-4569-4991-b532-ade900b548e4&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 15": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/cac26ec2-2846-4bfb-acb1-adbf011eb341/97b66e02-73db-4a4c-a4f2-adbf011eb349-26c5dafd-4ad7-40c7-9946-adf1007ca03a.hls/master.m3u8?InvocationID=c96238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=777222c7-71d6-4fbd-bdfb-adef00c5c3dd&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/cac26ec2-2846-4bfb-acb1-adbf011eb341/53e79f61-f30f-4602-98c2-adef00c5c417.object.hls/master.m3u8?InvocationID=c96238fd-e6a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=53e79f61-f30f-4602-98c2-adef00c5c417&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 15+": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/0921eefd-e9ef-4148-9e36-ae0600b5af84/dd266cf8-aea8-42f4-b9f2-ae0600b5af8c-0323359c-ed2c-485d-a12b-ae0600cb8235.hls/master.m3u8?InvocationID=036d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=bc580740-781c-4edb-a293-ae0600b5b05c&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 16": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/d0c3336a-8bfa-4632-ac84-adbf011ff554/c214561e-8ec8-4890-9744-adbf011ff55c-d80a86ef-bbea-4a78-bc4a-adf100ca8ada.hls/master.m3u8?InvocationID=106d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=f819a178-d433-483c-9471-adf000b5498a&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/d0c3336a-8bfa-4632-ac84-adbf011ff554/94734915-0d0a-4028-abce-adf000b549c5.object.hls/master.m3u8?InvocationID=106d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=94734915-0d0a-4028-abce-adf000b549c5&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 2": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/a5718b9b-1781-41ac-8e26-adba0100a3ca/a67ffd5a-5822-44a8-b539-adba0100a3d3-11bbbefb-43fd-4f9b-9db6-adc100aa6006.hls/master.m3u8?InvocationID=1b6d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=5444a9f9-22da-4524-86bf-adbf00a4d042&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/a5718b9b-1781-41ac-8e26-adba0100a3ca/a413567a-5846-4b7c-b433-adbf00a4d07e.object.hls/master.m3u8?InvocationID=1b6d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=a413567a-5846-4b7c-b433-adbf00a4d07e&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 3": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/547db960-7b78-433f-afad-adbf0106e3ad/d0091f0d-efad-4339-8509-adbf0106e3b8-47692438-4dbc-429a-8276-adc500c72a24.hls/master.m3u8?InvocationID=296d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=9e09bda8-fd65-436a-9be1-adc500b54a0b&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 4": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ef0b0603-49e8-4b88-8316-adbf01081887/5688c669-17de-43fb-99f0-adbf0108188f-4754b842-92cc-4fe1-a8b8-ade5009ebeba.hls/master.m3u8?InvocationID=306d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=4b46d352-406c-42fc-9f5e-adc600a4cd7a&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ef0b0603-49e8-4b88-8316-adbf01081887/bb0ff9d8-3257-4ff9-af14-adc600a4cdb6.object.hls/master.m3u8?InvocationID=306d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=bb0ff9d8-3257-4ff9-af14-adc600a4cdb6&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 5": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/46d13ef4-c1f4-4e81-af48-adbf010aef5d/30822809-094f-4b85-a768-adbf010aef64-bcc6dfe3-8a7d-464e-93ec-ade5009e44fd.hls/master.m3u8?InvocationID=3b6d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=4305bace-8c90-4485-b7f8-adcc00b548d6&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/46d13ef4-c1f4-4e81-af48-adbf010aef5d/41032499-a0ae-4c6f-a40d-adcc00b54913.object.hls/master.m3u8?InvocationID=3b6d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=41032499-a0ae-4c6f-a40d-adcc00b54913&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 6": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/edbd7b05-0a17-45c1-abd5-adbf010c17a2/a3e9b7c0-ce32-44de-b5c7-adbf010c17a8-48b2fc34-ab8b-42a2-8570-adcd014d0de3.hls/master.m3u8?InvocationID=476d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=c7161dd7-fc16-4977-bf3e-adcd00a4ccb8&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/edbd7b05-0a17-45c1-abd5-adbf010c17a2/3fa98268-7971-4572-af06-adcd00a4ccf4.object.hls/master.m3u8?InvocationID=476d3303-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=3fa98268-7971-4572-af06-adcd00a4ccf4&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 7": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/8414476d-598b-452a-bbb5-adbf010efdca/715036bb-f24d-4eeb-ad23-adbf010efdd1-70e8340c-30ca-43c3-89bd-add500f3ddd8.hls/master.m3u8?InvocationID=01a43009-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=2008b5c6-e2bc-4a2f-95e7-add300c5c25c&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/8414476d-598b-452a-bbb5-adbf010efdca/b7cfce4c-cf17-4d4b-84cd-add300c5c297.object.hls/master.m3u8?InvocationID=01a43009-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=b7cfce4c-cf17-4d4b-84cd-add300c5c297&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 8": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/5b8cfafa-8e4e-4a13-a23f-adbf01102385/e83e5176-54c7-4b8e-b7f8-adbf0110238d-a892fd86-1355-44ff-8030-add500f7d76f.hls/master.m3u8?InvocationID=0fa43009-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=00f2f2dd-628d-4b7b-bf7c-add400b547ec&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/5b8cfafa-8e4e-4a13-a23f-adbf01102385/9f4eff45-df76-4b8e-acb6-add400b54825.object.hls/master.m3u8?InvocationID=0fa43009-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=9f4eff45-df76-4b8e-acb6-add400b54825&ServerName=cambridgelectures.cloud.panopto.eu"
+    ],
+    "3B1: Lecture 9": [
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2f9ec8d4-7f41-4270-9007-adbf0112d3f1/27ab4f94-e80e-47b0-a31e-adbf0112d3f9-6addeae0-6ce9-477c-b45f-addd0097b22a.hls/master.m3u8?InvocationID=1aa43009-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=95821ddd-fa27-405c-a24a-adda00c5c2dc&ServerName=cambridgelectures.cloud.panopto.eu",
+      "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2f9ec8d4-7f41-4270-9007-adbf0112d3f1/f4f57867-c5a2-44d6-b2a4-adda00c5c318.object.hls/master.m3u8?InvocationID=1aa43009-e7a9-ec11-82a5-021278d44857&tid=00000000-0000-0000-0000-000000000000&StreamID=f4f57867-c5a2-44d6-b2a4-adda00c5c318&ServerName=cambridgelectures.cloud.panopto.eu"
+    ]
+  }
 }

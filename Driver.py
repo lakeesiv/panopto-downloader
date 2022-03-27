@@ -1,5 +1,5 @@
 from time import sleep
-from selenium import webdriver
+from seleniumwire import webdriver
 
 
 def update_links(panopto_folders):
@@ -18,12 +18,36 @@ class Driver:
         self.panopto_folders = update_links(panopto_folders)
 
     def get_m3u8_url(self):
-        JS_get_network_requests = "var performance = window.performance || window.msPerformance || window.webkitPerformance || {}; var network = performance.getEntries() || {}; return network;"
-        network_requests = self.driver.execute_script(JS_get_network_requests)
-        for n in network_requests:
-            name = n["name"]
-            if ".m3u8" in name and "index.m3u8" not in name:
-                return name
+        res = []
+        sleep(0.5)
+        multi_camera = self.driver.execute_script("""try {
+  document.querySelector("[aria-pressed=false]").click();
+} catch (error) {return false} return true;""")
+
+        if multi_camera:
+            sleep(0.1)
+            for request in self.driver.requests:
+                if "m3u8" in request.url and "index" not in request.url:
+                    res.append(request.url)
+            print(f"L={len(res)} {res}\n-----------------------------------------")
+            del self.driver.requests
+            return res
+        del self.driver.requests
+        return self.driver.execute_script("""const getArray = () => {
+  let performance =
+    window.performance ||
+    window.msPerformance ||
+    window.webkitPerformance ||
+    {};
+  let network = performance.getEntries() || {};
+
+  let names = network.map((n) => n.name);
+  return names.filter((n) => n.includes(".m3u8") && !n.includes("index"));
+};
+
+let a = getArray();
+return a;
+""")
 
     def get_lectures_dict(self):
         return self.driver.execute_script("""elements = document.querySelectorAll("a.detail-title");
@@ -45,8 +69,18 @@ class Driver:
         res = {}
         for title, url in lectures_dict.items():
             self.driver.get(url)
-            sleep(0.5)
+            sleep(2)
             m3u8_url = self.get_m3u8_url()
+
+            if not m3u8_url:
+                print("Trying again x1")
+                self.driver.get(url)
+                sleep(1)
+                m3u8_url = self.get_m3u8_url()
+                if not m3u8_url:
+                    self.driver.get(url)
+                    sleep(1)
+                    m3u8_url = self.get_m3u8_url()
 
             res[title] = m3u8_url
         return res
