@@ -1,0 +1,47 @@
+{
+  "3F1": {
+    "link": "https://www.vle.cam.ac.uk/course/view.php?id=70701",
+    "validSubstrings": ["filled", "annotated"],
+    "invalidSubstrings": null
+  },
+  "3F3": {
+    "link": "https://www.vle.cam.ac.uk/course/view.php?id=70681",
+    "validSubstrings": [""],
+    "invalidSubstrings": ["3F3", "Example"]
+  },
+  "3F7": {
+    "link": "https://www.vle.cam.ac.uk/course/view.php?id=122051",
+    "validSubstrings": ["Handout"],
+    "invalidSubstrings": null
+  },
+  "3B1": {
+    "link": "https://www.vle.cam.ac.uk/course/view.php?id=70951",
+    "validSubstrings": ["Lecture"],
+    "invalidSubstrings": ["3B1"]
+  },
+  "3M1": {
+    "link": "https://www.vle.cam.ac.uk/course/view.php?id=70591",
+    "validSubstrings": ["filled", "Handout"],
+    "invalidSubstrings": ["unfilled"]
+  },
+  "3F2": {
+    "link": "https://www.vle.cam.ac.uk/course/view.php?id=70691",
+    "validSubstrings": [
+      "Complete filled notes",
+      "Handout 2 (filled)",
+      "Lecture",
+      "Gunter"
+    ],
+    "invalidSubstrings": ["Robot"]
+  },
+  "3F8": {
+    "link": "https://www.vle.cam.ac.uk/course/view.php?id=122061",
+    "validSubstrings": ["iPad"],
+    "invalidSubstrings": null
+  },
+  "3F4": {
+    "link": "https://www.vle.cam.ac.uk/course/view.php?id=70671",
+    "validSubstrings": ["Handout"],
+    "invalidSubstrings": null
+  }
+}

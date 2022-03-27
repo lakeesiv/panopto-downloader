@@ -1,5 +1,7 @@
+from email.mime import base
 from time import sleep
 from seleniumwire import webdriver
+from os import path, makedirs
 
 
 def update_links(panopto_folders):
@@ -13,9 +15,11 @@ def update_links(panopto_folders):
 
 
 class Driver:
-    def __init__(self, panopto_folders=None, moodle_links=None) -> None:
+    def __init__(self, panopto_folders=None, moodle_links=None, base_path=None) -> None:
         self.options = webdriver.ChromeOptions()
         self.options.add_argument("--autoplay-policy=no-user-gesture-required")
+        if (base_path):
+            self.update_options(list(moodle_links.keys())[0], base_path)
         self.driver = webdriver.Chrome(options=self.options)
         self.panopto_folders = update_links(panopto_folders)
         self.moodle_links = moodle_links
@@ -88,16 +92,19 @@ return a;
             res[title] = m3u8_url
         return res
 
-    def get_download_driver(self, name, basePath):
+    def update_options(self, name, base_path):
+        download_path = path.join(base_path, name, "Notes")
+        try:
+            makedirs(download_path)
+        except FileExistsError:
+            pass
         profile = {
             'download.prompt_for_download': False,
-            'download.default_directory': f'{basePath}/{name}/Notes',
+            'download.default_directory': download_path,
             'download.directory_upgrade': True,
             'plugins.always_open_pdf_externally': True,
         }
-        options = webdriver.ChromeOptions()
-        options.add_experimental_option('prefs', profile)
-        return webdriver.Chrome(options=options)
+        self.options.add_experimental_option('prefs', profile)
 
     def get_download_object(self, validSubstrings, invalidSubstrings=None):
         if invalidSubstrings:
@@ -107,3 +114,10 @@ return a;
         baseJs = """const getObject=(element)=>{try{const link=element.getElementsByClassName("aalink")[0].href;const splitText=element.getElementsByClassName("instancename")[0].innerText.split(/\\r?\\n/);const type=splitText[splitText.length-1];const text=splitText[0];if(type==="File"){return{link,text}}}catch(error){return null}};const filterBySubstrings=(data,validSubstrings,invalidSubstrings=undefined)=>data.filter(({text})=>{const condition1=validSubstrings.some((substring)=>text.includes(substring));if(invalidSubstrings){const condition2=!invalidSubstrings.some((substring)=>text.includes(substring));return condition1&&condition2}return condition1});const getPDFObjects=(validSubstrings,invalidSubstrings=undefined)=>{const elements=document.getElementsByClassName("activityinstance");const res=Array.from(elements).reduce((arr,element)=>{const object=getObject(element);if(object){arr.push(object)}return arr},[]);return filterBySubstrings(res,validSubstrings,invalidSubstrings)};"""
 
         return self.driver.execute_script(f"{baseJs}{additonalJs}")
+
+    def download_pdfs(self, name, base_path, validSubstrings, invalidSubstrings=None):
+        donwload_object = self.get_download_object(
+            validSubstrings, invalidSubstrings)
+        for obj in donwload_object:
+            self.driver.get(obj["link"])
+            sleep(.2)
