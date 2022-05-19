@@ -3,7 +3,7 @@ from Driver import Driver
 import json
 import os
 
-course = "3F1"
+course = "3F4"
 moodle_links = json.load(open("moodle_links.json"))
 moodle_links = {course: moodle_links[course]}
 
